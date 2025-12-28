@@ -1,0 +1,7 @@
+{
+  "name": "ExpTrack - Construction Expense Pro",
+  "description": "Professional mobile-first construction expense tracker with AI voice assistant and multi-theme support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
