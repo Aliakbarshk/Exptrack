@@ -96,7 +96,7 @@ const SettingsModal: React.FC<SettingsModalProps> = ({
         <section className="space-y-6">
           <label className="block text-[11px] font-black uppercase tracking-[0.3em] text-blue-500 ml-4">API Configuration</label>
           <div className="bg-slate-50 dark:bg-slate-800/40 p-10 rounded-[3rem] border space-y-4">
-            <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Your Gemini API Key</p>
+            <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Your API Key</p>
             <input 
               type="password"
               value={apiKey}
